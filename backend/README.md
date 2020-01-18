@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/node-12.X-lemon.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/npm%20-^6.13.6-green.svg)](https://shields.io/)
+
 ## Backend da aplicação _DevRadar_
 
 ### Antes de iniciar:

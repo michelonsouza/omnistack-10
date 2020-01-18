@@ -1,3 +1,9 @@
+## Front-end
+Esta aplicação foi criada com `create-react-app cli`.
+Todo o texto subsequente em inglês é automaticamente gerado e eu preferi mantê-lo, já que o mesmo explica exatamente o que é necessário para subir a aplicação.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

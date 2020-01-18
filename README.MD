@@ -1,9 +1,9 @@
 ![DevRadar](https://github.com/michelonsouza/omnistack-10/blob/master/frontend/src/assets/logo-dev-radar.png?raw=true)
 
 
-#### Aplicação _DevRadar_ criada durante a semana Omnistack da [Rocketseat](https://rocketseat.com.br)
+## Aplicação _DevRadar_ criada durante a semana Omnistack da [Rocketseat](https://rocketseat.com.br)
 
-Esta aplicação tem o intiuito de sedimentar o conhecimento sobre a stack _NOdeJS, ReactJS e React-Native_ em um ecosistema completo envolvendo back-end, front-end e mobile.
+Esta aplicação tem o intiuito de sedimentar o conhecimento sobre a stack _NodeJS, ReactJS e React-Native_ em um ecosistema completo envolvendo back-end, front-end e mobile.
 
 O nível aqui empregado é iniciante, apesar de eu estar hà alguns anos na área, eu quis colocar este projeto no meu github, que estava uma bagunça, diga-se de passagem.
 
