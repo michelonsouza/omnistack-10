@@ -1,0 +1,17 @@
+aside {
+  width: 320px;
+  background: #fff;
+  box-shadow: 0 0 14px 0 tgba(0, 0, 0, 0.02);
+  border-radius: 2px;
+  padding: 30px 20px;
+  transition: all 200ms linear;;
+}
+
+aside strong {
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  color: #333;
+}
+
+
