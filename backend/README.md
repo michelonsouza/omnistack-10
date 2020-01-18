@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/node-12.X-lemon.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/npm%20-^6.13.6-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/node-12.X-lemon.svg)](https://nodejs.org/en/) &nbsp;&nbsp; [![Generic badge](https://img.shields.io/badge/npm%20-^6.13.6-green.svg)](https://nodejs.org/en/)
 
 ## Backend da aplicação _DevRadar_
 
@@ -24,6 +24,6 @@ MONGODB_CONNECTION_STRING=mongodb_conection_string
 
 Acesse a raiz do projeto e instale as dependências pelo _terminal_ usando o comando `yarn`, caso tenha o mesmo instalado ou `npm install` se não tiver o `yarn`;
 
-### Subando a aplicação
+### Subindo a aplicação
 
-Acesse a raiz da aplicação e, pelo _terminal_, digite o comando `yarn dev`, caso tenha `yarn` instalado ou `npm run dev`.
+Acesse a raiz da backend e, pelo _terminal_, digite o comando `yarn dev`, caso tenha `yarn` instalado ou `npm run dev`.
